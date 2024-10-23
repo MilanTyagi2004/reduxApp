@@ -19,7 +19,7 @@ const Header = () => {
                             </li>
                         </ul>
                             <div>
-                                <button className='btn-primary'>Balance: 10000</button>
+                                <button disabled={true} className='btn-primary'>Balance: 10000</button>
                             </div>
                        
                     </div>
